@@ -17,3 +17,8 @@ This repository contains my work for the Digital Detective Mission. Through this
 ## About
 
 This project is part of my learning journey into computer systems and technology.
+## My Learning
+
+- I learned how to use Terminal commands to navigate and manage files.
+- I learned how to convert numbers between binary, decimal and hexadecimal using Python.
+- I learned how Git tracks changes and how GitHub helps manage projects.
